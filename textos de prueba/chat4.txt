@@ -1,0 +1,14 @@
+﻿Empleado: Hola mi nombre es Daniela, Como puedo ayudarle
+Cliente: Soy Carlos. Quiero reportar un problema en la red de mi casa
+Empleado: Por seguridad necesitamos verificar algunos datos, esta bien
+Cliente: No hay problema
+Empleado: Cual es su fecha de nacimiento y su email
+Cliente: 09/08/1990 y mi mail es carlos@gmail.com
+Empleado: Gracias por la informacion. Puede explicarme cual es el problema
+Cliente: La red movil es inestable, pierdo llamadas y el audio es pesimo
+Empleado: Puede confirmarme su direccion
+Cliente: av. vasco de quiroga 1999
+Empleado: Gracias por la confirmacion, señor. Enviaremos un tecnico a revisar su problema de señal. Hay algo mas en que pueda ayudarle?
+Cliente: No
+Empleado: Gracias por llamar a Celtel. Que tenga un buen dia
+Cliente: Usted tambien

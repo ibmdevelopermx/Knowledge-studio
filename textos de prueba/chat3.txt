@@ -1,0 +1,12 @@
+﻿Empleado: Hola, mi nombre es Daniela. Como puedo ayudarle
+Cliente: Hola, mi nombre es Alejandro. Quiero cambiar la direccion de mi cuenta
+Empleado: Por seguridad necesitamos verificar algunos datos, esta bien
+Cliente: No hay problema
+Empleado: Cual es su fecha de nacimiento y su email
+Cliente: Mi fecha de nacimiento es el ocho de noviembre de 1992, y mi mail es alex@gmail.com
+Empleado: Gracias por la informacion. Necesitamos el comprobante de domicilio para cambiar la informacion. por favor visite el Celtel mas cercano con el documento. El cambio sera inmediato.
+Cliente: Gracias, lo hare
+Empleado: Hay algo mas en que pueda ayudarle
+Cliente: No, muchas gracias
+Empleado: Gracias por hablar a Celtel. Tenga un buen dia
+Cliente: Gracias, usted tambien

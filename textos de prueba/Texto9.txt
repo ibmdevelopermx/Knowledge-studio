@@ -1,0 +1,20 @@
+Empleado: Bienvenido a Celtel. Habla Sanjay. ¿Cómo puedo ayudarle
+Cliente: mi facturación es Incorrecta
+Empleado: Me podría dar su número de teléfono por favor
+Cliente: sí, mi número de teléfono es 8765453213
+Empleado: ¿De quién es este número registrado?
+Cliente: Amit
+Empleado: para la verificación me puede confirmar su fecha de nacimiento y correo electrónico ID
+Cliente: fecha de nacimiento es el 20 de julio de 1980 y el correo electrónico es amit@whatever.com
+Cliente: ¿Cuál es el problema en la facturación señor
+Cliente: se me cobra por el paquete de datos, mientras que había solicitado la cancelación de la suscripción del paquete de datos un hace un mes
+Empleado: Le ofrezco disculpas Señor voy a comprobar ¿puedo dejar su llamada en espera un minuto, por favor?
+Cliente: Claro
+Empleado: gracias
+Empleado: sí, parece que hay un problema. Iniciaré la reversión de los datos de los cargos
+Cliente: ¿puedo obtener una copia impresa de la factura a mi dirección por favor? Empleado: por favor, confirme su dirección
+Cliente: mi dirección es: casa no 13, bloque 2, diseño de Nandini, Bengaluru-560016 Empleado: he tomado su solicitud de factura de papel que lo obtendrá en una semana
+Cliente: ok
+Empleado: ¿hay algo más en lo que pueda ayudarle?
+Cliente: no
+Empleado: gracias. Ten un buen día.. Bye

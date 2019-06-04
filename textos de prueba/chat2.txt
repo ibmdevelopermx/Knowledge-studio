@@ -1,0 +1,16 @@
+﻿Empleado: Hola soy pedro. En que puedo ayudarle 
+Cliente:Hola Pedro, Soy Oscar. Quiero saber por que no hay red desde ayer
+Empleado: Muy bien. Quiere saber acerca del numero del que esta llamando
+Cliente: si
+Empleado: Por seguridad necesitamos verificar algunos datos, esta bien
+Cliente: Si
+Empleado: Cual es su fecha de nacimiento y su email
+Cliente: Mi fecha de nacimiento es 15 del 11 de 1989, y mi email es oscar.gei@gmail.com
+Empleado: Disculpe señor, usted tiene un saldo pendiente de los ultimos 2 meses, es por eso que su servicio esta desconectado
+Cliente: oh ya veo. Quiero pagar la deuda pendiente
+Empleado: Ok, por favor digame el nombre de la compañia donde trabaja y su numero de empleado
+Cliente: Trabajo en IBM y mi numero de empleado es 186009
+Empleado: Muy bien, su numero se activara en 3 horas. Hay algo mas en que pueda ayudarle
+Cliente: No, gracias
+Empleado: Gracias por hablar a Celtel. Que tenga un buen dias
+Cliente: Gracias, igualmente

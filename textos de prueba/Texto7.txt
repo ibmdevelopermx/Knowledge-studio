@@ -1,0 +1,13 @@
+Empleado: Buen día, habla Priya. ¿Cómo puedo ayudarle?
+Cliente: Buenos días, habla Anand. Quiero cambiar mi plan
+Empleado: seguro, puedo ayudarte. ¿Desea cambiar el plan para el número del que está llamando ahora?
+Cliente: Así es
+Empleado: para fines de verificación me podría indicar su fecha de nacimiento y correo electrónico Id
+Cliente: Mi dia de nacimiento es el 10 de agosto de 1979 y mi ID de correo electrónico es anand@gmail.com
+Empleado : ¿A qué plan desea migrar?
+Cliente: Al plan 450 ilimitada\nEmpleado: ¿Me podría decir el nombre de su empresa y su Id de empleado
+CLiente: trabajo para IBM y mi ID de empleado es 12345
+Empleado: OK.. He tomado su solicitud para migrar al plan 450 ilimitado. Obtendrá una actualización en 3 horas. ¿Hay algo más que pueda ayudarte?
+Cliente: No
+Empleado: Gracias por llamar a Celtel. Que tengas un buen día.
+Cliente: Igualmente

@@ -1,0 +1,14 @@
+﻿Empleado: Hola, mi nombre es Leslie, como puedo ayudarle?
+Cliente: Hola, soy Jon. Tengo un problema con mi cuenta de este mes
+Empleado: Por seguridad necesitamos verificar algunos datos, esta bien
+Cliente: No hay problema
+Empleado: Cual es su fecha de nacimiento y su email
+Cliente: El el primero de enero de 1992 y mi email es jon.chido@gmail.com
+Empleado: Gracias por la informacion. Puede explicarme su problema
+Cliente: Hay cargos por llamadas que no hice
+Empleado: Se agrega por default. Puedo solicitar que remuevan el cargo extra
+Cliente: Estaria perfecto
+Empleado: El cambio se vera reflejado en la cuenta del siguiente mes. Hay algo mas en que pueda ayudarle?
+Cliente: No gracias
+Empleado: Gracias por llamar a Celtel. Que tenga un buen dia
+Cliente: Gracias igualmente

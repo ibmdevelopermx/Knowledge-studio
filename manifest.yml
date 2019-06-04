@@ -1,0 +1,8 @@
+applications:
+- path: target/NLUApp.war
+  name: <El nombre tiene que ser unico, pon uno aqui>
+  memory: 256M
+  disk_quota: 1024M
+  random-route: false
+  buildpack: liberty-for-java
+  

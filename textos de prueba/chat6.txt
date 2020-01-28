@@ -1,15 +1,15 @@
-Cliente: Hola soy Pinto y me encuentro Bangalore
-Empleado: Hola soy Intu desde el soporte técnico de Tikona Señor, ¿cómo puedo ayudarle Hoy?
+Cliente: Hola soy izzy y me encuentro ciudad de mexico
+Empleado: Hola soy adolf desde el soporte técnico de celtel Señor, ¿cómo puedo ayudarle hoy?
 Cliente: El problema es que mi banda ancha no está conectando. ¿Puede ayudarme a resolver este problema?
-Cliente: Claro Señor, permítame confirmar su ID de cliente.. es 128976 y su dirección es no 18, 19th Cruz, Hebbal, Bangalore 56
+Cliente: Claro Señor, permítame confirmar su ID de cliente.. es 128976 y su dirección es abajo del puente de metro tacubaya, ¿es correcto?
 Cliente: sí correcto
-Empleado: y estoy hablando con el Sr. Pinto
+Empleado: y estoy hablando con el Sr. izzy
 Cliente: Así es.
-Empleado: ¿puedo confirmar que su módem este encendido y conectado a la energía
+Empleado: ¿puedo confirmar que su módem este encendido y conectado a la energía?
 Cliente: sí, así es.
 Empleado : Puede apagar el módem y esperar 20 segundos y volver a encenderlo. Me quedaré en la llamada mientras hace eso
 Cliente: OK estoy haciendo eso.... acabo de reiniciar el modem
-Empleado: gracias, por favor espere unos minutos mientras diagnostico su connexión
+Empleado: gracias, por favor espere unos minutos mientras diagnostico su conexión
 Cliente: ok
 Empleado: ¿puede por favor intentar iniciar sesión ahora Señor?
 Cliente: OK, voy a iniciar sesión en mi cuenta de banda ancha ahora…. Sí, ahora soy capaz de iniciar sesión

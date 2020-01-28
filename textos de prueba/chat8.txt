@@ -1,16 +1,16 @@
-Empleado: Bienvenido a Celtel. habla Santosh. ¿Cómo puedo ayudarle
+Empleado: Bienvenido a Celtel. hHabla brayan. Cómo puedo ayudarle
 Cliente: quiero cambiar mi dirección
 Empleado: para qué número Señor
 Cliente: 123456789
 Empleado: para verificar la información me podría decir su nombre y correo electrónico Id
-Cliente: mi nombre es Ranes
+Cliente: mi nombre es bris
 Empleado: y el correo electrónico ID?
-Cliente: randeep@rediffmail.com
+Cliente: brisp@mailmorado.com
 Empleado: Gracias por proporcionar la información. Así que usted necesita cambiar su dirección?
 Cliente: Si
 Empleado: Podría indicarme su nueva dirección por favor
-Cliente: mi nueva dirección es plana 1564, Sarvodaya alturas, 4T Cross, Jayanagar, Bengaluru-560020
+Cliente: mi nueva dirección es calle siempre viva 54
 Empleado: he tomado su solicitud para actualizar la dirección. Para la validación por favor envíe copia escaneada de su nueva dirección a customercare@celtel.com
 Cliente: OK, yo se la envio
 Empleado: ¿hay algo más en lo que pueda ayudarle?.
-Cliente: no hay nada que decir: que tengas un buen día 
+Cliente: no gracias

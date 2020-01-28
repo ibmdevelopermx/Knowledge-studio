@@ -1,4 +1,4 @@
-Empleado: Gracias por llamar a Celtel. Habla Mónica. ¿Cómo puedo ayudarle
+Empleado: Gracias por llamar a Celtel. Habla Mónica. Cómo puedo ayudarle
 Cliente: Quiero migrar a un proveedor de servicios diferentes.
 Cliente: Sentimos escuchar eso Señor, pero ¿por qué desea Migrar?
 Cliente: la señal es mala y el servicio es patético
@@ -7,12 +7,13 @@ Cliente: Es malo en mi casa
 Empleado: ¿puede un representante visitar su hogar para comprobar cuál es el problema?
 Cliente: Si
 Empleado: para la verificación puede hacerme saber su nombre, ID de correo electrónico y la fecha de nacimiento
-Cliente: mi nombre es Abdul, mi ID de correo electrónico es adbul@hotmail.com y los datos de nacimiento es 9 de marzo de 1988
+Cliente: mi nombre es elsa broso, mi ID de correo electrónico es elsa@hotmail.com y los datos de nacimiento es 9 de marzo de 1988
 Empleado: gracias, puede confirmar su dirección de casa por favor?
-Cliente: mi domicilio es #35, 5º corss, 2º principal, Kalyan Nagar, Bengaluru-560043
+Cliente: mi domicilio es calle balderas 45
 Empleado: un represetante le llamará y visitará su hogar para comprobar los problemas de la señal y abordar su queja
 Cliente: espero que el problema se resuelva
 Empleado: vamos a hacer nuestro mejor esfuerzo señor
-Cliente: Gracios
-Empleado: ¿hay algo más en lo que yo pueda ayudarle?\nCliente: No
+Cliente: Gracias
+Empleado: ¿hay algo más en lo que yo pueda ayudarle?
+Cliente: No
 Empleado: Gracias por llamar y que tenga un buen día señor

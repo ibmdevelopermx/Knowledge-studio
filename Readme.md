@@ -62,7 +62,7 @@ Enseñe a **IBM Watson** el lenguaje con modelos personalizados que identifican 
     - Para fines prácticos de este workshop tenemos un “type system” en formato .json listo para cargarse en la herramienta. Este archivo .json se encuentra dentro del file que descargaste de nuestro repositorio en GitHub. (data/”types…”.json)
 	- Haz click en “upload”.
     ![](img/im7.png)
-    - Carga el archivo en formato .json.
+    - Carga el archivo en formato .json.<br>
     ![](img/im8.png)<br>
 Y ya tienes creado el “type system” con las entidades que deseas extraer de información no estructurada.
 ![](img/im9.png)
@@ -71,9 +71,9 @@ Y ya tienes creado el “type system” con las entidades que deseas extraer de 
 1. Ahora crearemos el “corpus” que son los documentos que usaremos para entrenar nuestro modelo, en el cuál identificaremos manualmente las entidades de nuestro “type system”.
     - Para fines prácticos de éste workshop tenemos un “corpus” de documentos de ejemplo para nuestro entrenamiento y ya preparados para entrenarse con algoritmos de inteligencia artificial. El archivo se encuentra en (data/corpus…zip).
 2. Seleccionamos “upload documents sets”.
-    ![](img/im10.png)
-3.  Cargamos el documento.
-    ![](img/im11.png)
+![](img/im10.png)
+3.  Cargamos el documento.<br>
+![](img/im11.png)
 4.  Se creó un “document set” el cuál tiene 10 archivos .txt que se usarán para el entrenamiento.<br> El “document set” se dividió entre training, test, blind porque para motivos del workshop el “corpus” ya tiene precargado el “ground truth” ya que los documentos vienen pre anotados. 
     ![](img/im12.png)
 
@@ -90,10 +90,10 @@ Para tener organizadas nuestras anotaciones debemos crear un “task”.
 ![](img/im16.png)
 
 ## Anotación del set de documentos
-1. Has click en “annotate”
+1. Has click en “annotate”.<br>
 ![](img/im17.png)
 2. Veras todos los documentos que formas el set de anotación.
-    - Dale click a alguno.
+    - Dale click a alguno.<br>
 ![](img/im18.png)
 3. Notarás que ya vienen las anotaciones de las entidades echas en nuestros documentos, y **esto es para fines prácticos del workshop**. Debes saber que estas anotaciones se deben hacer por un humano en cada uno de los documentos que formen nuestro “corpus”.
 ![](img/im19.png)
@@ -104,7 +104,7 @@ Para tener organizadas nuestras anotaciones debemos crear un “task”.
 ![](img/im21.png)
 
 ## Entrenar el modelo
-1. Dirigete a la sección de “performance” y da click en ç“train and evaluate”.
+1. Dirigete a la sección de “performance” y da click en “train and evaluate”.
 ![](img/im22.png)
 2. Selecciona el set y dale click a “train”.
 ![](img/im23.png)
@@ -122,7 +122,7 @@ Para tener organizadas nuestras anotaciones debemos crear un “task”.
 5. Busca el servicio que creamos en pasos anteriores del workshop.
 ![](img/im28.png)
 6. Has desplegado tu modelo personalizado con **Knowledge Studio** al servicio de **Natural Language Understanding**. Ahora serás capaz de obtener la información que quieres de cualquier texto.
-7. Copia el “Model ID” en un lugar.
+7. Copia el “Model ID” en un lugar.<br>
 ![](img/im29.png)
 
 
@@ -132,7 +132,7 @@ Para tener organizadas nuestras anotaciones debemos crear un “task”.
     - *nota: el username siempre será “apikey”*.
 ![](img/im30.png)
 ![](img/im31.png)
-3. Ahora dirígete al archivo "manifest.yml" que es el archivo con el que se hará el despliegue a la nube. Ponle un nombre único en la sección de “name”.
+3. Ahora dirígete al archivo "manifest.yml" que es el archivo con el que se hará el despliegue a la nube. Ponle un nombre único en la sección de “name”.<br>
 ![](img/im32.png)
 
 ## Subir la app a la nube                        
